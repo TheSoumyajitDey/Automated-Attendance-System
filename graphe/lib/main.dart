@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-//import 'package:graphe/homeScreen.dart';
+import 'package:graphe/homeScreen.dart';
 import 'package:graphe/tataPage.dart';
-//import 'dart:convert';
-//import 'package:get_ip/get_ip.dart';
-//import 'package:flutter/material.dart';
-//import 'package:http/http.dart'as http;
-//import 'package:graphe/OkayBye.dart';
-//import 'package:wifi/wifi.dart';
-//import 'package:flutter/services.dart';
+import 'dart:convert';
+import 'package:get_ip/get_ip.dart';
+import 'package:flutter/material.dart';
+import 'package:http/http.dart'as http;
+import 'package:graphe/OkayBye.dart';
+import 'package:wifi/wifi.dart';
+import 'package:flutter/services.dart';
 import 'dart:async';
-//import 'dart:convert';
-//import 'dart:io';
+import 'dart:convert';
+import 'dart:io';
 
 
 
